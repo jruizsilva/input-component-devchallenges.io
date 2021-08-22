@@ -32,7 +32,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ```bash
 # Clone this repository
-$ git clone https://dev-challenges-react-2.netlify.app/
+$ git clone https://github.com/jruizsilva/input-component-devchallenges.io
 
 # Install dependencies
 $ npm install --save styled-components
